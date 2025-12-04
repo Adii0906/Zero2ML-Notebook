@@ -1,4 +1,3 @@
-# Documentation
 
 ## Zero2ML-Notebook
 
