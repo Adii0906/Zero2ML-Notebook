@@ -14,3 +14,14 @@ for i in range(5):
 def greet(name):
     return f"Hello {name}"
 print(greet("World"))
+
+# List, Tuple, Dict
+numbers = [1,2,3]
+numbers.append(4)
+info = {"name":"Aditya","skill":"Python"}
+print(numbers, info)
+
+
+# Exercise
+# 1. Create a function that calculates factorial
+# 2. Create a dictionary about yourself and print keys
